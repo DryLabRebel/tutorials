@@ -17,5 +17,4 @@ Contents
 3. [htop](htop.md)
 4. [memory management](memory_management.md)
 5. [git](git.md)
-6. [tdwh](tdwh.md)
 
