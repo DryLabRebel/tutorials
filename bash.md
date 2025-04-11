@@ -54,8 +54,7 @@ Terminal/Shell/Bash
 
 ### The Terminal ###
 
-The terminal is a 'terminal emulator' which - for all intents and purposes - just means it is a program that allows you to interact with a shell program, via a command-line. If you want
-a history lesson, go check out Wikipedia.
+The terminal is a 'terminal emulator' which just means it is a program (instead of an actual physical terminal from the 70's) that allows you to interact with a shell program, via a command-line.
 
 ### The Shell ###
 
