@@ -3,7 +3,7 @@ Bash and the Terminal
 
 ---
 
-    Author: Geoff English
+    Author: Geoff
     Last Update: (13-03-2025)
 
 ---

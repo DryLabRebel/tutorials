@@ -3,7 +3,7 @@ File Permissions Cheat Sheet
 
 ---
 
-    Author: Geoff English
+    Author: Geoff
     Last Update: (13-03-2025)
 
 ---
